@@ -1,1 +1,2 @@
 today is sunny
+tom is cloudy 
